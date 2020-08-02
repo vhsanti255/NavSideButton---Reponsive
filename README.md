@@ -1,1 +1,3 @@
 # NavSideButton---Reponsive
+While building this little project, for some reason it didn't want to slide, nor work with Javascript...
+I'm just going to leave this out as it is, and come back to it later.
